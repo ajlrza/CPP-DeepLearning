@@ -1,6 +1,10 @@
-# 🧠 CPP-DeepLearning `[WIP]`
+# 🧠 CPP-ML `[WIP]`
 
 A lightweight, from-scratch Deep Learning library written in modern C++, specifically tailored and benchmarked for **Intel Core i3 (6th Gen)** architecture.
+
+* Pre-training: Loss Function & Gradient Descent
+* Inferencing: Logit Generation & Sampling
+> Hardcoded values will be used for mock inputs
 
 ---
 
@@ -9,9 +13,11 @@ A lightweight, from-scratch Deep Learning library written in modern C++, specifi
 The goal is to implement them in C++ and learn memory management, performance engineering & profiling, and optimizing deep learning computation
 with my own hardware as test-bed
 
-* **Memory Management:** 
-* **Performance Engineering:**
-* **Profiling & Analysis:**
+* **Memory Management** 
+* **Performance Engineering**
+* **Profiling & Analysis**
+
+Metrics: ```throughput, latency, memory bandwidth, and FLOPS```
 
 ## 🛠️ Core Features (Current Scope)
 
