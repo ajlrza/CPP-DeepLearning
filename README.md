@@ -1,4 +1,4 @@
-# 🧠 CPP-ML `[WIP]`
+# 🧠 IntelDeep `[WIP]`
 
 A lightweight, from-scratch Deep Learning library written in modern C++, specifically tailored and benchmarked for **Intel Core i3 (6th Gen)** architecture.
 
